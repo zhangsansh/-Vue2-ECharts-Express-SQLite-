@@ -90,7 +90,7 @@ Vue2/
 <img width="553" height="544" alt="屏幕截图 2026-07-15 195553" src="https://github.com/user-attachments/assets/229b1358-407b-4246-9a22-5cde97529110" />
 <img width="2531" height="1381" alt="屏幕截图 2026-07-15 195600" src="https://github.com/user-attachments/assets/09f6b2a5-b2d4-4f5a-afc2-f8a044144659" />
 <img width="2541" height="1379" alt="屏幕截图 2026-07-15 195645" src="https://github.com/user-attachments/assets/7235e5bd-ee13-405c-804b-a78cb892f24e" />
-<img width="2202" height="1326" alt="屏幕截图 2026-07-14 223001" src="https://github.com/user-attachments/assets/8f51255f-c74a-401c-abd6-84c15c91f7c6" />
+
 
 
 
