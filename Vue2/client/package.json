@@ -1,0 +1,27 @@
+{
+  "name": "nanyang-dashboard-client",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "core-js": "^3.39.0",
+    "echarts": "^5.5.1",
+    "element-ui": "^2.15.14",
+    "leaflet": "^1.9.4",
+    "vue": "^2.7.16",
+    "vue-router": "^3.6.5",
+    "vuex": "^3.6.2",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.8",
+    "@vue/cli-service": "~5.0.8",
+    "sass": "^1.83.0",
+    "sass-loader": "^12.6.0",
+    "vue-template-compiler": "^2.7.16"
+  }
+}
